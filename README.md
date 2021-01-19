@@ -14,7 +14,7 @@ This work is based on our [arXiv tech report](https://arxiv.org/abs/1905.02925).
 <h2>
 
 ```diff
-- This repo will soon be live! Stay Tuned!!- 
+- This repo will be live soon! Stay Tuned!! 
 ```
 </h2>
 
