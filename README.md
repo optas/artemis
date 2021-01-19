@@ -5,7 +5,7 @@ Created by <a href="https://ai.stanford.edu/~optas" target="_blank">Panos Achlio
 <a href="http://www.mohamed-elhoseiny.com/" target="_blank">Mohamed Elhoseiny</a>, 
 <a href="https://geometry.stanford.edu/member/guibas/" target="_blank">Leonidas J. Guibas</a>
 
-![representative](https://github.com/optas/shapeglot/blob/master/doc/images/speaker_productions_teaser.png)
+![representative](https://github.com/optas/artemis/blob/master/doc/images/speaker_productions_teaser.png)
 
 
 ## Introduction
