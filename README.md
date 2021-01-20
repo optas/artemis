@@ -9,7 +9,7 @@ Created by <a href="https://ai.stanford.edu/~optas" target="_blank">Panos Achlio
 
 
 ## Introduction
-This work is based on our [arXiv tech report](https://arxiv.org/abs/1905.02925).<br>
+This work is based on our [arXiv tech report](https://arxiv.org/abs/2101.07396).<br>
 
 <h2>
 
