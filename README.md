@@ -14,7 +14,8 @@ This work is based on our [arXiv tech report](https://arxiv.org/abs/2101.07396).
 <h2>
 
 ```diff
-- This repo will be live soon! Stay Tuned!! 
+- This repo will be live soon! Stay Tuned (e.g. feel free to star it:) )! 
++ Meanwhile, you can explore ArtEmis [here](http://13.59.56.153:8501/)  
 ```
 </h2>
 
