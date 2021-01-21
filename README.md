@@ -16,6 +16,7 @@ This work is based on our [arXiv tech report](https://arxiv.org/abs/2101.07396).
 ```diff
 - This repo will be live soon! Stay Tuned!! (e.g., feel free to star it:)   
 ```
-Meanwhile, you __can__ _explore_ the ArtEmis annotations [here](http://13.59.56.153:8501/)!
 </h2>
+
+Meanwhile, you __can__ _explore_ the ArtEmis annotations [here](http://13.59.56.153:8501/)!
 
