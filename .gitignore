@@ -20,3 +20,17 @@ artemis/notebooks/.ipynb_checkpoints/*
 *.so
 *.o
 *.swp
+
+# ArtEmis specific
+artemis/kept_out/*
+
+artemis/evaluation/pycocoevalcap/spice/lib/stanford-corenlp-3.6.0-models.jar
+artemis/evaluation/pycocoevalcap/spice/lib/stanford-corenlp-3.6.0.jar
+artemis/evaluation/pycocoevalcap/spice/cache/*
+artemis/evaluation/pycocoevalcap/spice/tmp/*
+
+# Hack for temp version
+artemis_temp/evaluation/pycocoevalcap/spice/lib/stanford-corenlp-3.6.0-models.jar
+artemis_temp/evaluation/pycocoevalcap/spice/lib/stanford-corenlp-3.6.0.jar
+artemis_temp/evaluation/pycocoevalcap/spice/cache/*
+artemis_temp/evaluation/pycocoevalcap/spice/tmp/*

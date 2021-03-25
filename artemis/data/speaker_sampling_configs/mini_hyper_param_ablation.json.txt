@@ -1,0 +1,12 @@
+[    
+    {
+        "sampling_rule": "beam",
+        "temperature": 0.5,
+        "beam_size": 5
+    },
+    {
+        "sampling_rule": "beam",
+        "temperature": 0.3,
+        "beam_size": 5
+    }    
+]

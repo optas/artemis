@@ -1,0 +1,182 @@
+[
+    {
+        "sampling_rule": "topk",
+        "temperature": 1.0,
+        "topk": 10
+    },
+    {
+        "sampling_rule": "topk",
+        "temperature": 0.8,
+        "topk": 10
+    },
+    {
+        "sampling_rule": "topk",
+        "temperature": 0.5,
+        "topk": 10
+    },
+    {
+        "sampling_rule": "topk",
+        "temperature": 0.3,
+        "topk": 10
+    },
+    {
+        "sampling_rule": "topk",
+        "temperature": 0.2,
+        "topk": 10
+    },
+    {
+        "sampling_rule": "topk",
+        "temperature": 1.0,
+        "topk": 15
+    },
+    {
+        "sampling_rule": "topk",
+        "temperature": 0.8,
+        "topk": 15
+    },
+    {
+        "sampling_rule": "topk",
+        "temperature": 0.5,
+        "topk": 15
+    },
+    {
+        "sampling_rule": "topk",
+        "temperature": 0.3,
+        "topk": 15
+    },
+    {
+        "sampling_rule": "topk",
+        "temperature": 0.2,
+        "topk": 15
+    },
+    {
+        "sampling_rule": "topk",
+        "temperature": 1.0,
+        "topk": 20
+    },
+    {
+        "sampling_rule": "topk",
+        "temperature": 0.8,
+        "topk": 20
+    },
+    {
+        "sampling_rule": "topk",
+        "temperature": 0.5,
+        "topk": 20
+    },
+    {
+        "sampling_rule": "topk",
+        "temperature": 0.3,
+        "topk": 20
+    },
+    {
+        "sampling_rule": "topk",
+        "temperature": 0.2,
+        "topk": 20
+    },
+    {
+        "sampling_rule": "topk",
+        "temperature": 1.0,
+        "topk": 5
+    },
+    {
+        "sampling_rule": "topk",
+        "temperature": 0.8,
+        "topk": 5
+    },
+    {
+        "sampling_rule": "topk",
+        "temperature": 0.5,
+        "topk": 5
+    },
+    {
+        "sampling_rule": "topk",
+        "temperature": 0.3,
+        "topk": 5
+    },
+    {
+        "sampling_rule": "topk",
+        "temperature": 0.2,
+        "topk": 5
+    },
+    {
+        "sampling_rule": "topk",
+        "temperature": 1.0,
+        "topk": 3
+    },
+    {
+        "sampling_rule": "topk",
+        "temperature": 0.8,
+        "topk": 3
+    },
+    {
+        "sampling_rule": "topk",
+        "temperature": 0.5,
+        "topk": 3
+    },
+    {
+        "sampling_rule": "topk",
+        "temperature": 0.3,
+        "topk": 3
+    },
+    {
+        "sampling_rule": "topk",
+        "temperature": 0.2,
+        "topk": 3
+    },
+    {
+        "sampling_rule": "topk",
+        "temperature": 0.2,
+        "topk": 1
+    },
+    {
+        "sampling_rule": "beam",
+        "temperature": 1.0,
+        "beam_size": 5
+    },
+    {
+        "sampling_rule": "beam",
+        "temperature": 0.8,
+        "beam_size": 5
+    },
+    {
+        "sampling_rule": "beam",
+        "temperature": 0.5,
+        "beam_size": 5
+    },
+    {
+        "sampling_rule": "beam",
+        "temperature": 0.3,
+        "beam_size": 5
+    },
+    {
+        "sampling_rule": "beam",
+        "temperature": 0.2,
+        "beam_size": 5
+    },
+    {
+        "sampling_rule": "beam",
+        "temperature": 1.0,
+        "beam_size": 10
+    },
+    {
+        "sampling_rule": "beam",
+        "temperature": 0.8,
+        "beam_size": 10
+    },
+    {
+        "sampling_rule": "beam",
+        "temperature": 0.5,
+        "beam_size": 10
+    },
+    {
+        "sampling_rule": "beam",
+        "temperature": 0.3,
+        "beam_size": 10
+    },
+    {
+        "sampling_rule": "beam",
+        "temperature": 0.2,
+        "beam_size": 10
+    }
+]
