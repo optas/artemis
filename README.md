@@ -113,7 +113,7 @@ __Train & evaluate neural-speakers.__ :bomb:
    the speaker. See Step-3 (1) for how to train such a net.
    
    - To __evaluate__ the sampled utterances of a speaker (e.g., per BLEU, emotional alignment, methaphors etc.) use this 
-   [notebook](artemis/notebooks/deep_nets/evaluate_sampled_captions.ipynb). As bonus you can see the _neural attention_ placed on 
+   [notebook](artemis/notebooks/deep_nets/speakers/evaluate_sampled_captions.ipynb). As bonus you can see the _neural attention_ placed on 
    the different tokens/images.               
                          
 
