@@ -134,7 +134,8 @@ __Train & evaluate neural-speakers.__ :bomb:
 [KCBS-Radio](https://ai.stanford.edu/~optas/data/interviews/artemis/kcbs/SAT-AI-ART_2_2-6-21(disco_mix).mp3), 
 [Communications of ACM](https://cacm.acm.org/news/250312-ai-art-critic-can-predict-which-emotions-a-painting-will-evoke/fulltext),
 [Synced Review](https://medium.com/@Synced/ai-art-critic-new-dataset-and-models-make-emotional-sense-of-visual-artworks-2289c6c71299),
-[École Polytechnique](https://www.polytechnique.edu/fr/content/des-algorithmes-emotifs-face-des-oeuvres-dart)
+[École Polytechnique](https://www.polytechnique.edu/fr/content/des-algorithmes-emotifs-face-des-oeuvres-dart),
+[Forbes Science](https://www.forbes.com/sites/evaamsen/2021/03/30/artificial-intelligence-is-learning-to-categorize-and-talk-about-art/)
  
 - :telephone_receiver: &nbsp; __important__ More code, will be added on the _1st week of April_. Namely, for the ANP-baseline, the comparisons of ArtEmis with other datasets, please do a git-pull at that time. The update will be _seamless_! During this first months, if you have _ANY_ question feel free to send me an email at __optas@stanford.edu__. 
 
