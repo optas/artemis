@@ -132,7 +132,7 @@ network feature space by running this 5 min. [notebook](artemis/notebooks/deep_n
    * [SAT-Speaker (434MB)](https://www.dropbox.com/s/tnbfws0m3yi06ge/vanilla_sat_speaker_cvpr21.zip?dl=0) 
    * [SAT-Speaker-with-emotion-grounding (431MB)](https://www.dropbox.com/s/0erh464wag8ods1/emo_grounded_sat_speaker_cvpr21.zip?dl=0)
    
-    - The above speaker links include also _sampled captions_ on the test-split. You can use them to evaluate the model without resampling it. Please read the also included README.txt.   
+   + The above two links include also our _sampled captions_ for the test-split. You can use them to evaluate the speakers without resampling them. Please read the included README.txt.
 
    + __Caveats__: ArtEmis is a real-world dataset containing the opinion and sentiment of thousands of people. It is expected thus to contain text with biases, factual inaccuracies, and perhaps foul language. Please use responsibly.
    The provided models are likely to be biased and/or inaccurate in ways reflected in the training data.          
