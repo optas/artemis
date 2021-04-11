@@ -119,10 +119,11 @@ __Train & evaluate neural-speakers.__ :bomb:
 
 ### Pretrained Models
    * [Image-To-Emotion classifier (81MB)](https://www.dropbox.com/s/8dfj3b36q15iieo/best_model.pt?dl=0)
-   * [LSTM-based Text-To-Emotion classifier (8MB)](https://www.dropbox.com/s/9jcenruxk05lx0k/best_model.pt?dl=0)
+   * [LSTM-based Text-To-Emotion classifier (8MB)](https://www.dropbox.com/s/ruczzggqu1i6nof/best_model.pt?dl=0)
    * [SAT-Speaker (434MB)](https://www.dropbox.com/s/tnbfws0m3yi06ge/vanilla_sat_speaker_cvpr21.zip?dl=0) 
    * [SAT-Speaker-with-emotion-grounding (431MB)](https://www.dropbox.com/s/0erh464wag8ods1/emo_grounded_sat_speaker_cvpr21.zip?dl=0)
-   + Note: the above speaker links include the sampled captions for the test split. You can use them to evaluate the model without re-sampling it. Please read the also included README.txt.   
+   
+   - Note: the above two links include also the sampled captions with each speaker for the test split. You can use them to evaluate the model without re-sampling it. Please read the also included README.txt.   
    + __Caveats__: ArtEmis is a real-world dataset containing the opinion and sentiment of thousands of people. It is expected thus to contain text with biases, factual inaccuracies, and perhaps foul language. Please use responsibly.
    The provided models are likely to be biased and/or inaccurate in ways reflected in the training data.          
     
